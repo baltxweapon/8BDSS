@@ -39,7 +39,7 @@ compilar.bat
 
 This will generate the `.exe` inside the `dist/8BDSS/` folder.
 
-This setup uses `--onedir`, which creates a folder with the executable and libraries for better memory efficiency, it can also be compiled using --onefile to pack everything in the exe file.
+This setup uses `--onedir`, which creates a folder with the executable and libraries for better memory efficiency, it can also be compiled using `--onefile` to pack everything in the exe file.
 
 ## 🔄 Auto-run with elevated privileges
 
